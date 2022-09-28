@@ -22,36 +22,13 @@ body {
 .mt-manual1{
   margin-top: 55px;
 }
-.text-animation-header{
-  min-height:40px;
-  max-height: 50px;
-  position: relative;
-  font-size: 24px;
-  text-align: center;
-}
-.text-animation-header span {
-  font-family: 'Alfa Slab One', cursive;
-  position: relative;
-  display: inline-block;
-  color: #fff;
-  animation: text-anim 2s 3;
-  animation-delay: calc(.1s * var(--i));
 
-}
 .card-img-1{
   overflow: hidden;
   width: 100%;
 }
 .card-img-1 .card-img-top{
   min-height: 240px;
-}
-@keyframes text-anim {
-  0%,40%,100% {
-    transform: translateY(0)
-  }
-  20% {
-    transform: translateY(-18px)
-  }
 }
 .navbar-brand .logo-header{
   min-height: 20px;
