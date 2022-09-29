@@ -19,7 +19,9 @@ body {
 .top-header{
   background-color: #181818 ;
 }
-
+.text-white{
+    font-family: 'futura-bold',sans-serif;
+}
 .card-img-1{
   overflow: hidden;
   width: 100%;
