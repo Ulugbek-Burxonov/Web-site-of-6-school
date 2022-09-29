@@ -9,7 +9,7 @@
 }
 body {
   line-height: 1.2;
-  font-family: "Poppins", sans-serif !important;
+  font-family: "Poppins", sans-serif ;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #5c5c77;
