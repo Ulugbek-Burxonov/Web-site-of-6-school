@@ -26,8 +26,8 @@
 	$('.hero-slider').slick({
 		autoplay: true,
 		autoplaySpeed: 7500,
-		pauseOnFocus: false,
-		pauseOnHover: true,
+		pauseOnFocus: true,
+		pauseOnHover: false,
 		infinite: true,
 		arrows: true,
 		fade: true,
