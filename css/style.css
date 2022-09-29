@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Mukta:700');
 @font-face {
   font-family: 'futura-bold';
-  src: url("../fonts/Futura-Bold.woff") format("woff");
+  src: url("fonts/Futura-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
